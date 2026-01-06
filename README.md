@@ -4,6 +4,8 @@
 
 📌 Project Overview
 This project presents a machine learning–based framework for predicting the lifespan of industrial materials using simulated manufacturing data. The objective is to provide a cost-effective, scalable alternative to traditional experimental durability testing by leveraging data-driven regression models.The study evaluates multiple ML algorithms and demonstrates that XGBoost delivers superior predictive performance for material lifespan estimation.
+<img width="818" height="541" alt="image" src="https://github.com/user-attachments/assets/364e9729-0ec5-4dae-b3be-5df9d8611d0d" />
+
 
 
 📂 Dataset
@@ -27,7 +29,8 @@ Extreme Gradient Boosting (XGBoost)
 
 
 📊 Model Performance
-<img width="429" height="373" alt="image" src="https://github.com/user-attachments/assets/4ea2c124-3ced-4026-80de-97f5e48a6e75" />
+<img width="415" height="362" alt="image" src="https://github.com/user-attachments/assets/936cda5d-bd03-4bdf-8796-1c2bd7028421" />
+
 
 
 ✔ XGBoost achieved the highest accuracy and best generalization, with a 5-fold cross-validated R² of 0.964.
